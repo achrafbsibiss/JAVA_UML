@@ -10,5 +10,14 @@ public class Main {
         System.out.println( livre.toString());
 
 
+        auteur.setEmail("higo@gmail.com");
+        adherent.setNumAdherent(164);
+        livre.setName("Architet System");
+
+
+        System.out.println( adherent.toString());
+        System.out.println( auteur.toString());
+        System.out.println( livre.toString());
+
     }
 }
