@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/inheritance/EX2/EX2.iml" filepath="$PROJECT_DIR$/inheritance/EX2/EX2.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/abstraction.iml" filepath="$PROJECT_DIR$/inheritance/abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstruction/abstruction.iml" filepath="$PROJECT_DIR$/abstruction/abstruction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstruction/abstruction2/abstruction2.iml" filepath="$PROJECT_DIR$/abstruction/abstruction2/abstruction2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java_uml_oop.iml" filepath="$PROJECT_DIR$/.idea/java_uml_oop.iml" />
     </modules>
   </component>
